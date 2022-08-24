@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashley2/github-pages-app.git/static/css/main.073c9b0a.css",
+    "main.js": "/dashley2/github-pages-app.git/static/js/main.201201b2.js",
+    "static/js/787.c577adf8.chunk.js": "/dashley2/github-pages-app.git/static/js/787.c577adf8.chunk.js",
+    "static/media/logo.svg": "/dashley2/github-pages-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dashley2/github-pages-app.git/index.html",
+    "main.073c9b0a.css.map": "/dashley2/github-pages-app.git/static/css/main.073c9b0a.css.map",
+    "main.201201b2.js.map": "/dashley2/github-pages-app.git/static/js/main.201201b2.js.map",
+    "787.c577adf8.chunk.js.map": "/dashley2/github-pages-app.git/static/js/787.c577adf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.201201b2.js"
+  ]
+}
